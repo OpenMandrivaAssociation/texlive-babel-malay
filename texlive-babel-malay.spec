@@ -1,6 +1,6 @@
 Name:		texlive-babel-malay
 Version:	43234
-Release:	1
+Release:	2
 Summary:	Support for Malay within babel
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-malay
