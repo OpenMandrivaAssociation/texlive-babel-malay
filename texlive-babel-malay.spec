@@ -3,7 +3,7 @@ Version:	43234
 Release:	2
 Summary:	Support for Malay within babel
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/babel-malay
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/babel-malay
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-malay.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/babel-malay.doc.r%{version}.tar.xz
